@@ -15,7 +15,7 @@ The dataset includes sales, profit, order dates, product categories, regions, an
 
 ### 📈 Dashboard Preview
 
-🔗 **[Click here to view the live Tableau Dashboard]([https://public.tableau.com/views/YourDashboardName/Sheet1](https://public.tableau.com/app/profile/d.siva.kumar/viz/Book1_17545743996530/Dashboard1))**  
+🔗 **[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/d.siva.kumar/viz/Book1_17545743996530/Dashboard1))**  
 
 
 This dashboard includes:
